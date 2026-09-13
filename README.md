@@ -4,14 +4,20 @@
   <img src="https://komarev.com/ghpvc/?username=glance02&label=Profile%20views&color=0e75b6&style=flat" alt="glance02" />
 </p>
 
-### 🙋‍♂️ 关于我
+### About me
 
-- 计算机科学与技术专业在读
-- 目前专注于**深度学习**领域言
-- 持续学习中，不断探索技术的边界
-- 文学低手，A Cumter
+计算机科学与技术专业在读，目前在学深度学习
+文学低手，Cumter
+持续学习中，不断探索技术的边界
 
-![02](figures/02.png)
+<img src="figures/02.png" alt="02" width="300"/>
+
+
+### 📊 GitHub 统计
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=glance02&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ### 🛠️ 技术栈
 
@@ -23,35 +29,6 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
-
----
-
-### 📊 GitHub 统计
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=glance02&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glance02&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=glance02&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-
-### 📈 贡献活动
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=glance02&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=glance02&theme=tokyonight" alt="Profile Summary" />
-</p>
-
-
 
 <p align="center">
   <i>生命是时时刻刻不知如何是好</i>
