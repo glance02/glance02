@@ -1,7 +1,7 @@
 # Hi, glance02 here 
 
 
-## <img src="https://img.shields.io/badge/About-Me-2C3E50?style=flat" height="30"/> 
+### <img src="https://img.shields.io/badge/About-Me-2C3E50?style=flat" height="30"/> 
 
 <table>
 <tr>
@@ -23,7 +23,7 @@
 </table>
 
 
-## <img src="https://img.shields.io/badge/Tech-Stack-2C3E50?style=flat" height="30"/>
+### <img src="https://img.shields.io/badge/Tech-Stack-2C3E50?style=flat" height="30"/>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-## <img src="https://img.shields.io/badge/GitHub-Stats-2C3E50?style=flat" height="30"/>
+### <img src="https://img.shields.io/badge/GitHub-Stats-2C3E50?style=flat" height="30"/>
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=glance02&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
