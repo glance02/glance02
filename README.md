@@ -35,16 +35,12 @@
 
 ### <img src="https://img.shields.io/badge/GitHub-Stats-2C3E50?style=flat" width="120"/>
 
-<!-- GitHub Profile Stats - 完整统计卡片 -->
 <p align="left">
-  <img src="https://ghstats.dev/api/card?username=glance02&theme=tokyonight" alt="GitHub Stats"/>
-</p>
-
-<!-- 语言统计 - 条形图 -->
-<p align="left">
-  <img src="https://ghstats.dev/api/langs?username=glance02&theme=tokyonight&layout=bar" alt="Top Languages Bar"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=glance02&theme=prussian&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <i>生命是时时刻刻不知如何是好</i>
 </p>
+
+
