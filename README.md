@@ -3,13 +3,24 @@
 
 ### About me
 
-CUMT 计算机科学与技术专业在读
+<table>
+<tr>
+<td width="60%">
 
-文学低手，目前在学深度学习
+- CUMT 计算机科学与技术专业在读
 
-以撒糕手，Outer Wilds 烤棉花糖之人
+- 文学低手，目前在学深度学习
 
-<img src="figures/02.png" alt="02" width="500"/>
+- 以撒糕手，Outer Wilds 烤棉花糖之人
+
+</td>
+<td width="40%">
+
+<img src="figures/02.jpg" alt="02" width="60%"/>
+
+</td>
+</tr>
+</table>
 
 
 ### 🛠️ 技术栈
