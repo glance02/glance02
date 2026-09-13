@@ -1,7 +1,7 @@
-# Hi 👋, 我是郁玺
+# Hi, Glance02 here 
 
 
-### 🙋‍♂️ About me
+### <img src="https://img.shields.io/badge/About-Me-2C3E50?style=flat" height="24"/> 
 
 <table>
 <tr>
@@ -9,7 +9,7 @@
 
 - CUMT 计算机科学与技术专业在读
 
-- 文学低手，目前在学深度学习
+- 郁玺，文学低手，目前在学深度学习
 
 - 以撒糕手，Outer Wilds 烤棉花糖之人
 
@@ -23,7 +23,7 @@
 </table>
 
 
-### 🛠️ 技术栈
+### <img src="https://img.shields.io/badge/Tech-Stack-2C3E50?style=flat" height="24"/>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-### 📊 GitHub 统计
+### <img src="https://img.shields.io/badge/GitHub-Stats-2C3E50?style=flat" height="24"/>
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=glance02&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
