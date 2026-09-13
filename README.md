@@ -7,15 +7,17 @@
 ### About me
 
 计算机科学与技术专业在读，目前在学深度学习
+
 文学低手，Cumter
+
 持续学习中，不断探索技术的边界
 
-<img src="figures/02.png" alt="02" width="300"/>
+<img src="figures/02.png" alt="02" width="600"/>
 
 
 ### 📊 GitHub 统计
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=glance02&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
