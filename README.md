@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-### <img src="https://img.shields.io/badge/GitHub-Stats-2C3E50?style=flat" width="140"/>
+### <img src="https://img.shields.io/badge/GitHub-Stats-2C3E50?style=flat" width="120"/>
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=glance02&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
