@@ -1,4 +1,4 @@
-# Hi, Glance02 here 
+# Hi, glance02 here 
 
 
 ### <img src="https://img.shields.io/badge/About-Me-2C3E50?style=flat" height="24"/> 
