@@ -1,11 +1,11 @@
 # Hi 👋, 我是郁玺
 
 
-### About me
+### 🙋‍♂️ About me
 
 <table>
 <tr>
-<td width="60%">
+<td width="65%" valign="middle">
 
 - CUMT 计算机科学与技术专业在读
 
@@ -14,9 +14,9 @@
 - 以撒糕手，Outer Wilds 烤棉花糖之人
 
 </td>
-<td width="40%">
+<td width="35%" align="center" valign="middle">
 
-<img src="figures/02.jpg" alt="02" width="60%"/>
+<img src="figures/02.jpg" alt="02" width="220"/>
 
 </td>
 </tr>
