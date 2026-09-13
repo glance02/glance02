@@ -11,8 +11,7 @@
 - 持续学习中，不断探索技术的边界
 - 文学低手，A Cumter
 
-![02](\figures\02.png)
----
+![02](figures/02.png)
 
 ### 🛠️ 技术栈
 
@@ -41,7 +40,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=glance02&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
 
 ### 📈 贡献活动
 
@@ -53,9 +51,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=glance02&theme=tokyonight" alt="Profile Summary" />
 </p>
 
----
 
 
 <p align="center">
-  <i>⚡ "生命是时时刻刻不知如何是好" ⚡</i>
+  <i>生命是时时刻刻不知如何是好</i>
 </p>
